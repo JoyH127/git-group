@@ -1,3 +1,11 @@
+<!-- FUN FACTS FROM DEMMY:
+1. Nutmeg is a hallucinogen.
+2. White chocolate is not chocolate.
+3. Froot Loops are all the same flavor.
+4. There’s no answer to how many licks it takes to get to the center of a tootsie pop.
+5. In Japan, chefs have to train for over two years in order to qualify to serve pufferfish. -->
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
